@@ -3,7 +3,7 @@
 > **For authorized penetration testing only.**
 > Written authorization from the target organization is required before use.
 
-A single, self-adaptive backdoor installer for any router running Linux/BusyBox. Works on WE/Telecom Egypt routers and virtually any home/office router worldwide. Detects available tools, adapts automatically, installs what it can, persists across reboots, and cleans all traces.
+A single, self-adaptive backdoor installer for any router running Linux/BusyBox. Works on virtually any home/office router worldwide. Detects available tools, adapts automatically, installs what it can, persists across reboots, and cleans all traces.
 
 ---
 
